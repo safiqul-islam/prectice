@@ -3,3 +3,4 @@ edite from remote
 edit 2nd from remote
 2nd push from local
 edit 3rd from remot
+push 3rd from local
