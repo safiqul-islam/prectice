@@ -1,3 +1,4 @@
 push from local 1st
 edite from remote
 edit 2nd fromt remote
+2nd push from local
