@@ -6,4 +6,4 @@ edit 3rd from remot
 push 3rd from local
 1st from f1branch
 
-conflict push from local
+ 1s conflict push from local
