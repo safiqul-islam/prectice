@@ -5,3 +5,5 @@ edit 2nd from remote
 edit 3rd from remot
 push 3rd from local
 1st from f1branch
+
+conflict push from local
