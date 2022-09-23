@@ -5,3 +5,5 @@ this line is added from remote repo main
 
 this line is added from feature 1 2nd time
 >>>>>>> feature1
+
+this line added from remote repo 2nd time
