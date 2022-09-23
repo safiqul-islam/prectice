@@ -1,2 +1,7 @@
 this line is added from feature 1
+<<<<<<< HEAD
 this line is added from remote repo main
+=======
+
+this line is added from feature 1 2nd time
+>>>>>>> feature1
