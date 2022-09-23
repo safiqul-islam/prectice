@@ -1,4 +1,5 @@
 push from local 1st
 edite from remote
-edit 2nd fromt remote
+edit 2nd from remote
 2nd push from local
+edit 3rd from remot
