@@ -7,3 +7,5 @@ push 3rd from local
 1st from f1branch
 
  1s conflict push from local
+
+this is the commit from local
