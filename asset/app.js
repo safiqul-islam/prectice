@@ -1,13 +1,21 @@
-const obj1 = {
-    firstName:'safiqul',
-    lastName:'islam',
-    age:23,
-    job:'Laravel Developer',
-    friend:['nayan','reza','rasel']
+const person = {
+    firstName : "safiqul",
+    lastName : "islam",
+    language : "english",
+    get fullName(){
+        return this.firstName+" "+this.lastName;
+    }
 };
 
-const nameKey = obj1['firstName']+' '+obj1['lastName'];
-console.log(nameKey);
+console.log(person.fullName);
 
-const input = prompt('Enter the name from this example (safiq)');
-console.log(obj1[input]);
+const human = {
+    name : "rafi",
+    age : 25,
+    lang : "",
+    set lan(x){
+        this.lang = x; 
+    },
+};
+human.lan = "sasel bc";
+console.log(human.lang);
